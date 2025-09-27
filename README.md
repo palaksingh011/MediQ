@@ -7,7 +7,7 @@ a digital solution for queue management,appointment booking and patient record k
 ## ✨ Core Features
 
 - 📱 **Real-Time Queue Tracking:** Know your exact position in the queue, from anywhere.
-- 🎟️ **Instant Digital Tokens:** Get your queue number directly on your phone—no more paper slips.
+- 🎟️ **Instant Digital queue Adding:** Get your queue number directly on your phone—no more paper slips.
 - 🗓️ **Effortless Appointments:** Book and manage doctor's appointments with just a few taps.
 - 📂 **Unified Health Records:** Access all your prescriptions and lab reports in one secure, digital space.
 - 🔔 **Smart Alerts:** Receive timely notifications when your turn is approaching.
