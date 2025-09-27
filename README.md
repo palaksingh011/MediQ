@@ -1,6 +1,7 @@
 # MediQ - A Smart AI-powered solution for hospital queue management platform 
  <br>
-## 💡 What is MediQ?
+##💡 What is MediQ?
+<br>
 A mobile application designed to reduce long waiting times at hospitals.Our App provides
 a digital solution for queue management,appointment booking and patient record keeping.
 
